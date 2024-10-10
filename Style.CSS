@@ -1,0 +1,14 @@
+#dice{
+       font-size: 320px;
+       color: red;
+       
+}
+
+#Roll{
+       font-size: 75px;
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       color:yellow;
+}
+body{
+      background-color: black;
+}
